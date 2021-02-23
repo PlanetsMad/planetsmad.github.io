@@ -35,10 +35,9 @@ a:hover {
 }
 
 footer {
-    margin: 72px auto;
+    margin: 64px auto;
 }
 
 footer p {
     color: gray;
-    text-align: center;
 }
